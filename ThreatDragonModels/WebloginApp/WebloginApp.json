@@ -8,8 +8,19 @@
   },
   "detail": {
     "contributors": [],
-    "diagrams": [],
-    "diagramTop": 0,
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "External Entity → User (Represents the end-user) Process → Authentication API (Handles login requests) Data Store → User Database (Stores credentials & user data) Data Flow → Arrows showing how data moves between these components",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.3.0",
+        "cells": [],
+        "description": "External Entity → User (Represents the end-user) Process → Authentication API (Handles login requests) Data Store → User Database (Stores credentials & user data) Data Flow → Arrows showing how data moves between these components"
+      }
+    ],
+    "diagramTop": 2,
     "reviewer": "Net",
     "threatTop": 0
   }

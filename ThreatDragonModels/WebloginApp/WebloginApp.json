@@ -1,0 +1,16 @@
+{
+  "version": "2.3.0",
+  "summary": {
+    "title": "WebloginApp",
+    "owner": "Man",
+    "description": "Threat Modeling based on STRIDE",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Net",
+    "threatTop": 0
+  }
+}
